@@ -1,1 +1,1 @@
-# OS-Ticketing-System-
+# oSTicket (Help Desk Ticketing System)
